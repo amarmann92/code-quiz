@@ -1,0 +1,33 @@
+.hidden {
+  display: none;
+}
+
+.format {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.scoreList {
+  list-style: none;
+}
+
+#correct {
+  text-align: center;
+  color: green;
+}
+
+#incorrect {
+  text-align: center;
+  color: red;
+}
+
+#questions {
+  margin-top: 2%;
+  margin-bottom: 20px;
+}
+
+#timeEl {
+  margin-top: 5%;
+  text-align: center;
+  color: blue;
+}
